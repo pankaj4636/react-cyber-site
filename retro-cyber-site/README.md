@@ -26,10 +26,11 @@ Explore the terminal, type commands, and uncover hidden Easter eggs .
 
 🕹️ Available Commands
 
-Inside the terminal, you can run:
+##Inside the terminal, you can run:
 
-Command	Description
-HELP    ->  	Show available commands
+Command	Description:
+
+HELP    ->  Show available commands
 DIR	    ->  List directory contents
 SYS     ->	Display system information
 NET     ->	Run network diagnostics
@@ -39,18 +40,10 @@ EXIT	->  Logout / return to main page
 .HIDDEN	->  Unlock the secret classified page 
 
 
-🚀 Getting Started
- 1️. Clone the repository
- git clone https://github.com/your-username/retro-cyber-terminal.git
-cd retro-cyber-terminal
-
-
-
-
-
-Built With
-
+ Built With:
+ 
 -> React – UI framework
+-> vite  - Next-generation frontend tooling
 
 -> TailwindCSS – styling
 
@@ -59,8 +52,28 @@ Built With
 -> Custom CSS Animations – glitch, glow, flicker
 
 
+🚀 Getting Started:
+
+1. Clone the repository:
+    git clone https://github.com/pankaj4396/retro-cyber-site.git
+
+    cd retro-cyber-site
+
+2️.Install dependencies:
+    npm install
+
+3.Start the development server:
+    npm run dev
+
+4.Build for production:
+    npm run build
+
+
 
 🧑‍💻 Author
 
 Pankaj Paswan
-📍 IIIT Sri City |  Passionate about full stack webd development.
+📍 IIIT Sri City |  Passionate about full stack web development.
+
+
+
