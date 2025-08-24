@@ -6,7 +6,7 @@ Explore the terminal, type commands, and uncover hidden Easter eggs .
 
 ✨ Features
 
--> Interactive Terminal with old-school DOS vibes
+-> Interactive Terminal with old-school DOS vibes hello
 
 -> Typing Animations for mainframe access messages
 
